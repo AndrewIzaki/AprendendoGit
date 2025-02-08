@@ -8,6 +8,8 @@ Curso de git e github, onde aprenderemos sobre versionamento de código
 ## 📚 Pontos Principais
 - Diferença entre versionamento centralizado e Distribuido
 - Principais comandos git.
+- Deu errado?
+
 
 ```git
     git clone URL nome
